@@ -163,6 +163,10 @@ i.fa-cart-shopping{
     justify-content:flex-start;
     gap:20px
 }
+.panel a{
+    text-decoration: none;
+    color: white;
+}
 
 .hero-section{
 
